@@ -1,0 +1,49 @@
+div{
+    color: black;
+    height:300px;
+    width:500px;
+    background-color:white;
+    border-radius: 10px;
+}
+    h3{
+        color: #000;
+        font-weight: 600;
+        font-size: 20px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       margin-top: 30px;
+       margin-left: 20px;
+      padding-top: 20px;
+    }
+       
+       
+    #one{
+        font-family: 'Courier New', Courier, monospace;
+        margin-left: 10px;
+        padding: 10px;
+        font-size: 14px;
+
+    }
+    #two{
+        font-family: 'Courier New', Courier, monospace;
+        margin-left: 10px;
+        padding: 10px;
+        font-size: 14px;
+
+    }
+    #three{
+        font-family: 'Courier New', Courier, monospace;
+        margin-left: 10px;
+        padding: 10px;
+        font-size: 14px;
+    }
+    button{
+         height: 40px;
+      border-radius: 8px;
+        background-color: rgba(241, 42, 142, 0.826);
+        border:  rgba(219, 7, 113, 0.945);
+        color:white;
+       margin-bottom: 80px;
+       margin-left: 20px;
+       
+
+    }
